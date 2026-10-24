@@ -1,17 +1,11 @@
 # ÉDIFICE RÉNOVATION
 
-Concept de démonstration pour une entreprise de rénovation fictive. Tous les chantiers, textes, plans et visuels sont originaux et fictifs. Aucune donnée n’est collectée.
+Site statique de démonstration : marque et projets entièrement fictifs. Le formulaire ne transmet aucune donnée.
 
-## Aperçu local
+## Service local
 
-Depuis ce dossier :
-
-```sh
+```bash
 node ../scripts/serve.mjs .
 ```
 
-Ou ouvrir directement `index.html` dans un navigateur. Le site n’utilise aucun build ni dépendance distante.
-
-## Déploiement
-
-Le dossier est prêt pour un hébergement statique. `netlify.toml` publie la racine (`.`).
+Aucune dépendance et aucune étape de construction.
